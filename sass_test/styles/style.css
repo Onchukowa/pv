@@ -1,0 +1,12 @@
+body {
+  padding: 14px; }
+
+div {
+  margin: auto; }
+  div a {
+    text-decoration: #08cc0f; }
+
+.add-hover-div {
+  backdrop-filter: blur(); }
+
+/*# sourceMappingURL=style1.css.map */

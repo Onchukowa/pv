@@ -1,0 +1,15 @@
+header {
+  height: 100px;
+  background: #ccc;
+}
+
+footer {
+  height: 200px;
+  background: red;
+}
+
+aside {
+  height: 200px;
+  background: green;
+}
+/*# sourceMappingURL=default.css.map */

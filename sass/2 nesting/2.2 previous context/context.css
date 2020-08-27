@@ -1,0 +1,16 @@
+div {
+  height: 200px;
+}
+
+div p {
+  color: #08cc0f;
+}
+
+div p a {
+  color: inherit;
+}
+
+div p a:hover {
+  color: yellow;
+}
+/*# sourceMappingURL=context.css.map */

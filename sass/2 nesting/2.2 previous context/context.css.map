@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAC;EACF,MAAM,EAAE,KAAK;CAad;;AAdD,AAGE,GAHC,CAGD,CAAC,CAAC;EACA,KAAK,EAAE,OAAO;CASf;;AAbH,AAMI,GAND,CAGD,CAAC,CAGC,CAAC,CAAC;EACA,KAAK,EAAE,OAAO;CAKf;;AAZL,AASM,GATH,CAGD,CAAC,CAGC,CAAC,AAGE,MAAM,CAAC;EACN,KAAK,EAAE,MAAM;CACd",
+    "sources": [
+        "context.scss"
+    ],
+    "names": [],
+    "file": "context.css"
+}

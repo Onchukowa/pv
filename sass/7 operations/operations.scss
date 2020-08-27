@@ -1,0 +1,11 @@
+div {
+  width: 500px;
+  height: 500px;
+
+  //делает цвет более прозрачным
+  background: transparentize(#aa135b, 0.5);
+
+  $baseColor: rgba(255, 0, 0, 0.5);
+  //делает цвет менее прозрачным
+  color: opacify($baseColor, 0.3);
+}

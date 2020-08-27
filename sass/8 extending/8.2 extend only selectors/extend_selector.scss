@@ -1,0 +1,15 @@
+%baseBlock {
+  background: #ccc;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+header {
+  @extend %baseBlock;
+  height: 100px;
+}
+
+footer {
+  @extend %baseBlock;
+  height: 200px;
+}

@@ -1,0 +1,14 @@
+#main {
+  color: blue;
+  font-size: 0.3em;
+}
+
+#main a {
+  font-weight: bold;
+  font-family: serif;
+}
+
+#main a:hover {
+  background-color: #eee;
+}
+/*# sourceMappingURL=scss_syntax.css.map */

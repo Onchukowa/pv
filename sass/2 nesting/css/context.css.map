@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,GAAI;EACF,MAAM,EAAE,KAAK;EAEb,KAAE;IACA,KAAK,EAAE,OAAO;IAEd,OAAE;MACA,KAAK,EAAE,OAAO;MAEd,aAAQ;QACN,KAAK,EAAE,MAAM;;AAOrB,OAAQ;EACN,OAAO,EAAE,KAAK;EAEd,eAAU;IACZ,GAAG,EAAE,GAAG",
+"sources": ["../2.2%20previous%20context/context.scss"],
+"names": [],
+"file": "context.css"
+}

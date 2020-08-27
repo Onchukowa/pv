@@ -1,0 +1,11 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  div {
+    background: #ccc;
+  }
+}
+
+@media (min-width: 0) and (max-width: 800px) {
+  p {
+    background: #76aeee;
+  }
+}

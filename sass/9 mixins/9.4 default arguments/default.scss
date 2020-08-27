@@ -1,0 +1,16 @@
+@mixin block($_height, $_background: #ccc) {
+  height: $_height;
+  background: $_background;
+}
+
+header {
+  @include block(100px);
+}
+
+footer {
+  @include block(200px, red);
+}
+
+aside {
+  @include block($_background: green, $_height: 200px);
+}

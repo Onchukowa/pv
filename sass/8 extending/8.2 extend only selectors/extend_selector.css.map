@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAMA,AANA,MAMM,EAKN,MAAM,CAXK;EACT,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,MAAM;EACjB,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,MAAM,CAAC;EAEL,MAAM,EAAE,KAAK;CACd;;AAED,AAAA,MAAM,CAAC;EAEL,MAAM,EAAE,KAAK;CACd",
+    "sources": [
+        "extend_selector.scss"
+    ],
+    "names": [],
+    "file": "extend_selector.css"
+}

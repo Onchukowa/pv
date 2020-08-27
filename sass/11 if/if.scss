@@ -1,0 +1,30 @@
+$siteTheme: light;
+
+%darkTheme {
+  background: #666;
+  color: white;
+}
+
+%lightTheme {
+  background: #76aeee;
+  color: #333;
+}
+
+%defaultTheme {
+  background: #fff;
+  color: #000;
+}
+
+@mixin setSiteTheme() {
+  @if $siteTheme == dark {
+      @extend %darkTheme;
+  } @else if $siteTheme == light {
+      @extend %lightTheme;
+  } @else {
+      @extend %defaultTheme;
+  }
+}
+
+header {
+  @include setSiteTheme();
+}

@@ -1,0 +1,10 @@
+@mixin boxShadow($shadows...) {
+  box-shadow: $shadows;
+}
+
+.header {
+  @include boxShadow(
+                  0 4px 5px #666,
+                  2px 6px 10px #999
+  );
+}

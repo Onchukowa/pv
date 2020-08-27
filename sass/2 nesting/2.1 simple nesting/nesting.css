@@ -1,0 +1,15 @@
+body {
+  background: #cccccc;
+}
+
+body div {
+  background: #ff6f6d;
+  width: 500px;
+  height: 400px;
+}
+
+body div p {
+  padding: 50px;
+  background: #08cc0f;
+}
+/*# sourceMappingURL=nesting.css.map */

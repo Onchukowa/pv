@@ -1,0 +1,21 @@
+$mainColor: #f16d7f;
+$stars-color: #e4af48;
+$subscribe-font-color: #222224;
+$extra-color: #f16d7f;
+$main-font-color: #222222;
+$button-font-color: #ffffff;
+$shadow-color: rgba(0, 0, 0, 0.16);
+@function divideDiv($divHeight, $numberOfParts) {
+  $result: $divHeight / $numberOfParts;
+  @return $result
+}
+
+@function substractDiv($mainDivWidth, $knownWidthDiv) {
+  $result: $mainDivWidth - $knownWidthDiv;
+  @return $result;
+}
+
+@mixin buttonHover () {
+  background-color: $mainColor;
+  color: #ffffff;
+}

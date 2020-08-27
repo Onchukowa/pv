@@ -1,0 +1,18 @@
+div {
+  height: 200px; }
+  div p {
+    color: #08cc0f; }
+    div p a {
+      color: inherit; }
+      div p a:hover {
+        color: yellow; }
+
+.header {
+  padding: unset; }
+
+
+
+  .header__search {
+    top: 4px; }
+
+/*# sourceMappingURL=context.css.map */

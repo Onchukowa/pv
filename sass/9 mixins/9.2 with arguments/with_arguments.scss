@@ -1,0 +1,15 @@
+$font-family: sans-serif;
+
+@mixin blockMixin($_bckGrnd, $_color) {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: $_bckGrnd;
+  color: $_color;
+  font-family: $font-family;
+}
+
+body {
+  @include blockMixin(#ccc, #000);
+}
