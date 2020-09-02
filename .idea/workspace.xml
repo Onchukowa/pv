@@ -5,16 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47a2e18-ea0e-4172-9050-7bb35883fa2a" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/Single-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/shopping-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/shopping-cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/.sass-cache/70d32a88139af52b7ee11697df37142dd59b39cc/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/.sass-cache/70d32a88139af52b7ee11697df37142dd59b39cc/style.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="e47a2e18-ea0e-4172-9050-7bb35883fa2a" name="Default Changelist" comment="update lesson_4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,11 @@
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -69,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598358989628</updated>
       <workItem from="1598358990717" duration="26080000" />
-      <workItem from="1598714077332" duration="6695000" />
+      <workItem from="1598714077332" duration="7063000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1598536291597</created>
@@ -78,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598536291598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update lesson_4">
+      <created>1599077286006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599077286006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update lesson_4">
+      <created>1599077294919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599077294919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +139,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="styles added" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="update lesson_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update lesson_4" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1599077764583">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1599077707791" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.23.1280.710@0.23.1280.710" timestamp="1599077764583" />
     <state x="292" y="185" key="EditFileWatcherDialog" timestamp="1598359178889">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="292" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1598359178889" />
-    <state x="398" y="274" key="Github.CreatePullRequestDialog" timestamp="1599077084984">
+    <state x="398" y="274" key="Github.CreatePullRequestDialog" timestamp="1599077390983">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="398" y="274" key="Github.CreatePullRequestDialog/0.0.1280.800@0.0.1280.800" timestamp="1599077084984" />
+    <state x="398" y="274" key="Github.CreatePullRequestDialog/0.0.1280.800@0.0.1280.800" timestamp="1599077390983" />
     <state x="513" y="304" key="Github.ShareDialog" timestamp="1598536512483">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
