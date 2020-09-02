@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47a2e18-ea0e-4172-9050-7bb35883fa2a" name="Default Changelist" comment="" />
+    <list default="true" id="e47a2e18-ea0e-4172-9050-7bb35883fa2a" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/Single-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/shopping-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/shopping-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/.sass-cache/70d32a88139af52b7ee11697df37142dd59b39cc/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/.sass-cache/70d32a88139af52b7ee11697df37142dd59b39cc/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_pw/Ончукова Наталья/styles/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +24,18 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Onchukowa" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="pv" />
   </component>
   <component name="ProjectId" id="1gaiECzxJvPEZIjl1mElCN6WVeI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,6 +57,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_pw/Ончукова Наталья/styles" />
+      <recent name="$PROJECT_DIR$/_pw/Ончукова Наталья" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,26 +68,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598358989628</updated>
-      <workItem from="1598358990717" duration="25373000" />
+      <workItem from="1598358990717" duration="26080000" />
+      <workItem from="1598714077332" duration="6695000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1598536291597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598536291598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="styles added" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="292" y="185" key="EditFileWatcherDialog" timestamp="1598359178889">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="292" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1598359178889" />
-    <state x="513" y="304" key="Github.ShareDialog" timestamp="1598535758668">
+    <state x="398" y="274" key="Github.CreatePullRequestDialog" timestamp="1599077084984">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="513" y="304" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1598535758668" />
+    <state x="398" y="274" key="Github.CreatePullRequestDialog/0.0.1280.800@0.0.1280.800" timestamp="1599077084984" />
+    <state x="513" y="304" key="Github.ShareDialog" timestamp="1598536512483">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="513" y="304" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1598536512483" />
     <state x="342" y="112" key="Github.UntrackedFilesDialog" timestamp="1598536017069">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="342" y="112" key="Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800" timestamp="1598536017069" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1599077249715">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1599077249715" />
     <state x="100" y="100" width="1080" height="600" key="dock-window-1" timestamp="1598475809527">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
